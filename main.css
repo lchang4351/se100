@@ -1,0 +1,17 @@
+.welcome-section{
+    /* insert rule */
+    /* put a fullstop in front of the class to identify it */
+    color: red;
+}
+
+.about-us-section{
+    color: blue;
+}
+
+.green-text{
+    color: green;
+}
+
+#special-paragraph-1{
+    color: orange;
+}
